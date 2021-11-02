@@ -1,0 +1,68 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "JOALI Maldives",
+      "price": "600",
+      "images": [
+        "hotel-1/1.jpg",
+        "hotel-1/2.jpg",
+        "hotel-1/3.jpg",
+        "hotel-1/4.jpg",
+        "hotel-1/5.jpg"
+      ],
+      "rating": "10",
+      "locationCity": "Muravandhoo Island",
+      "locationCountry": "Maldivs",
+      "summary": "Located on Muravandhoo island on the Raa Atoll in the northern Maldives, JOALI features 73 private beach and water villas and residences. Each villa is inspired by individual stories and designed to evoke this sensibility throughout. JOALI Spa by Espa is inspired by the tropical surrounds and offers indulgent treatments. A fitness center offers expert trainers and expansive views of the turquoise hued blue ocean and deep green flora and fauna.  There are four restaurants that provide inventive fusion cuisine. Vandhoo Restaurant – a specially designed dining experience spanning tastes from across South-East Asia, China, the Mediterranean and the Levant, Gourmet gallivants will indulge in experiential dining choices, superlative breakfast spreads and an impressive cellar of hand-picked wines and vintages to match. Her Kitchen – a personalised culinary experience for guests to learn how to cook (and enjoy) local Maldivian recipes  Saoke Restaurant designed by Japanese restaurant architect Noriyoshi Muramatsu replete with Kotatsu seating and elegant lounge, to Nikkei cuisine. Italian Restaurant – a piece of Italy in the midst of the Maldives, from Nonna-approved pastas to obligatory Bellini aperitivos and grappa digestives. Mura Bar – comprising cabanas and infinity pods overlooking the sandy white beach and iridescent sea.  With its vibrant ocean and lush landscapes JOALI can arrange activities like snorkeling with manta rays, learning about coral degradation in the underwater museum, wakeboarding to chartered yacht and dhoni excursions as well as meeting with local communities. An art map of the hotel takes guests on an art and sculpture tour of the island in a scavenger hunt of unique works designed specifically for Joali."
+    },
+    {
+      "id": "2",
+      "name": "Lux Belle Mare Resort & Villas",
+      "price": "750",
+      "images": [
+        "hotel-2/1.jpg",
+        "hotel-2/2.jpg",
+        "hotel-2/3.jpg",
+        "hotel-2/4.jpg",
+        "hotel-2/5.jpg"
+      ],
+      "rating": "9",
+      "locationCity": "Belle Mare",
+      "locationCountry": "Mauritius",
+      "summary": "Fresh and forward-looking, LUX* Belle Mare promises a stylish contemporary spin on luxury hospitality. Tucked away in beautifully landscaped tropical gardens near the sleepy village of Belle Mare, this modern Mauritius boutique resort lives on a glorious stretch of the east coast. Designer Kelly Hoppen breathed inspiration into the interiors, and it's as seductive to honeymooners as fun for multi-generational and family escapes. Uninterrupted soul-stirring sea views, powder-soft sands, beryl-blue waters and coconut palms swaying gently in the breeze and the island’s largest swimming pool where the terrace gently buzzes by day and feels Balearic by night. Expect Chinese street-food flavours prepared with fine-dining flair, while Amari by Vineet sets new standards for modern Indian cuisine. Instagram enthusiast adore the ice-cream parlour, the rustic rum shack, beer academy and DJ-soundtracked cocktails at Beach Rouge—or switch off and indulge in sweet-scented LUX* Me spa treatments"
+    },
+    {
+      "id": "3",
+      "name": "Renaissance Cancun Resort & Marina",
+      "price": "800",
+      "images": [
+        "hotel-3/1.jpg",
+        "hotel-3/2.jpg",
+        "hotel-3/3.jpg",
+        "hotel-3/4.jpg",
+        "hotel-3/5.jpg"
+      ],
+      "rating": "9.1",
+      "locationCity": "Cancun",
+      "locationCountry": "Mexico",
+      "summary": "Renaissance Cancun Resort & Marina is located in Puerto Cancun, just 10 minutes from Downtown. The hotel is next to the Marina Town Center, a largest shopping center with various options between commercial stores, restaurants, and even a VIP cinema. The Marina is in front of the hotel and the Puerto Cancun Golf Course is just a few meters.Couples particularly like the location. We speak your language!"
+    },
+    {
+      "id": "4",
+      "name": "Trisara Villas & Residences",
+      "price": "500",
+      "images": [
+        "hotel-4/1.jpg",
+        "hotel-4/2.jpg",
+        "hotel-4/3.jpg",
+        "hotel-4/4.jpg",
+        "hotel-4/5.jpg"
+      ],
+      "rating": "9.2",
+      "locationCity": "Phuket",
+      "locationCountry": "Thailand",
+      "summary": "In the tropical hills of north-western Phuket, a secluded private cove on the Andaman Sea inspired a vision. On a stretch of private beach filled breezy coconut palms, we envisioned a magical paradise where the heavens come down to earth. Thailand’s deep-rooted Buddhist traditions celebrate a mythical tropical garden paradise called Trisara, the garden in the third heaven. We draw inspiration from this celestial garden and from the poise and humility of Thai cultural traditions. Enshrined in nature, Trisara is a sanctuary for the senses, a private retreat with harmonious experiences intended to revive the spirit and to anchor life’s journey. Phuket’s most renowned and exclusive private pool resort, Trisara embraces a pristine private access beach on the Andaman Sea. A secret hideaway nestled in a verdant, tropical paradise, Trisara’s private luxury pool villas and residences sit on gently terraced hillsides forested with indigenous palms, plumeria, exotic orchids and flowering vines. Each private pool villa and residence looks to the western horizon, offer gorgeous views of the Andaman Sea’s ethereal aquamarine waters. The island resort sits within fourteen hectares a protected nature preserve that lends itself to extreme privacy and tranquillity. Trisara’s collection of private luxury villas and residences, and elegant dining and spa pavilions reflect the warmth and comfort of traditional Thai architecture and cultural values. Featuring spacious indoor and outdoor living spaces and private swimming pools, the villas and residences’ interior design are a pleasing mix of exotic natural materials and modern luxury elements. A private beach — reserved exclusively for in-residence guests — extends the length of the resort’s boundary and is ideal for sunbathing, water sports and long walks on the beach. Trisara offers a cool mix of casual and fine dining options, where authentic Thai seafood inspired by local ‘mama recipes’ and innovative fusion dishes reflects Phuket’s legacy as a vibrant, multicultural trading port. The architecturally stunning cocktail lounge, featuring a creative mixology menu,  is a great spot to end the day and take in the island’s spellbinding sunsets. Physical and spiritual well-being are nurtured by the Five Pillars of wellness at JARA Spa, featuring private, light-filled, sea-facing treatment rooms situated alongside a centuries-old Ficus, the spiritual anchor of Trisara. Trisara’s private beach  fabulous infinity pool, modern fitness room, tennis courts, a Muay Thai boxing ring are available to in-residence guests. Children can enjoy the Kid’s Club, featuring a books, games, a creative play zone and a revolving menu of guided craft activities. Trisara is ideal for couples seeking an intimate island retreat, and for families and friends wishing to enjoy relaxing holiday experiences with absolute privacy, tranquillity and gracious, attentive service. Welcome to Trisara ….. The Garden in the Third Heaven"
+    }
+  ]
+}
